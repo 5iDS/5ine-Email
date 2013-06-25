@@ -1,7 +1,7 @@
 <?php
 /* 
 Plugin Name: Mighty Fine Email 
-Description: A more repectable approach to WP EMails.
+Description: A more respectable approach to WP EMails.
 Version: 0.5.0
 Author: ...a few good HipHoppers...
 Author URI: http://www.5ivedesign.co.za
