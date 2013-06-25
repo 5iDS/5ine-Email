@@ -1,1 +1,2 @@
-mighty5ine EMail Wordpress Plugin===
+Wordpress Email Plugin
+===
